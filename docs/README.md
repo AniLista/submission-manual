@@ -10,7 +10,7 @@ Se pueden enviar nuevas entradas utilizando estos enlaces:
 **Anime**: [https://anilista.com/edit/anime/new](https://anilista.com/edit/anime/new)  
 **Manga**: [https://anilista.com/edit/manga/new](https://anilista.com/edit/manga/new)
 
-Nuevos **Personajes** and **Personas** solo se pueden crear a través de las subpáginas de los formularios de anime y manga' [Personaje](./submissions.html#characters) y [Persona](./submissions.html#staff). Esto es lo mismo si está enviando una nueva entrada o editando una existente.
+Nuevos **Personajes** and **Personas** solo se pueden crear a través de las subpáginas de los formularios de anime y manga' [Personaje](./submissions.html#characters) y [Persona](./submissions.html#staff). Esto es lo mismo si estás enviando una nueva entrada o editando una existente.
 
 ## Edición de entradas
 
