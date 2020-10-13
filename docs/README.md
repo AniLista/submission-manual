@@ -57,21 +57,21 @@ Sin embargo, no les dés un título y esperes que hagan todo el trabajo por ti.
 
 #### Anime
 
-| Name                                              | Rol             |
+| Nombre                                            | Rol             |
 | :------------------------------------------------ | :-------------- |
-| [Ivan](http://anilist.co/user/Ivan)               | Principal Anime |
-| [Frans](http://anilist.co/user/Frans)             | Anime |
+| [Ivan](http://anilista.com/user/Ivan)             | Principal Anime |
+| [Frans](http://anilista.com/user/Frans)           | Anime           |
 
 #### Manga
 
-| Name                                          | Rol                  |
+| Nombre                                        | Rol                  |
 | :-------------------------------------------- | :------------------- |
-| [Ivan](http://anilist.co/user/Ivan)           | Principal Manga      |
-| [Frans](https://anilist.co/user/Frans)        | Manga |
+| [Ivan](http://anilista.com/user/Ivan)         | Principal Manga      |
+| [Frans](https://anilista.com/user/Frans)      | Manga                |
 
 #### Otros Roles
 
-| Nombre                                         | Rol                    | Role                      | Rol                 |
+| Nombre                                         | Rol                    | Rol                       | Rol                 |
 | :--------------------------------------------- | :---------------------- | :----------------------- | :------------------ |
 | [Frans](http://anilista.com/user/Frans)        | Principal Desarrollador |                          | Comunidad           |
 | [Ivan](http://anilista.com/user/Ivan)          |                         | Principal Redes Sociales | Principal Comunidad |
