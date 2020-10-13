@@ -1,5 +1,5 @@
 module.exports = {
-  title: "AniList Submission Manual",
+  title: "Manual de Envío de Datos para AniLista",
   plugins: [
     "tabs"
   ],
@@ -8,9 +8,9 @@ module.exports = {
     docsDir: "docs",
     sidebar: [
       "/",
-      ["/criteria", "Database Criteria"],
-      ["/submissions", "Submission Guide"],
-      ["/tags", "Tags"]
+      ["/criteria", "Criterios de la Base de Datos"],
+      ["/submissions", "Guía de Envío"],
+      ["/tags", "Etiquetas"]
     ]
   }
 }
