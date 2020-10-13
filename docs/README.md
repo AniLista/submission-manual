@@ -40,11 +40,11 @@ Si tiene alguna consulta en relación con el envío o actualización de contenid
 ::: tip
 Es _**muy recomendable**_ que lea tanto el [Checklist](./criteria.html#checklist) y [Animated](./criteria.html#animated-media) y [Written Media](./criteria.html#written-media) en la secciones de especificación antes de cualquier envío, o al menos secciones relevantes dentro de él.
 
-The latter sections state what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
+Las últimas secciones establecen lo que _**es**_ y _**no**_ aceptado en la base de datos y proporciona muchos consejos útiles.
 :::
 
-::: warning Please Remember
-This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](./submissions.html#country-of-origin).'
+::: Advertencia por favor recorda
+Este sitio es _**solo**_ para obras de origen japonés, coreano, chino y taiwanés, como se especifica en '[Country of Origin](./submissions.html#country-of-origin).'
 :::
 
 ## Lista de Moderadores
