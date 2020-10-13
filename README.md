@@ -9,5 +9,5 @@
 - Iniciar sesión/crear una cuenta de Github
 - Haz click en el botón "Fork" en la parte superior derecha de esta página.
 - Navega hasta el archivo .md que deseas cambiar y haz clikc en el icono del lápiz
-- Abre una [pull request](https://github.com/AniLista/submission-manual/compare) y seleccione tu fork del menú desplegable de comparación
+- Abre una [pull request](https://github.com/AniLista/submission-manual/compare) y selecciona tu fork del menú desplegable de comparación.
 - Crea una pull request y espera a que Frans cree una versión preliminar del manual a partir de tus cambios.
