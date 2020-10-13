@@ -31,14 +31,14 @@ Los episodios de [Resumen](./criteria.html#recaps) no siempre están incluidos.
 AniLista tiene [relaciones](./submissions.html#relations) adicionales. Adaptaciones de etiquetado entre todos los formatos \(anime, manga, y novela ligera\) también se tratan de la misma manera.
 :::
 
-After making a submission, you will be able to view the status of your submissions, plus receive comments and questions from any moderators working on it if required.
+Después de realizar un envío, podrá ver el estado de sus envíos, además de recibir comentarios y preguntas de cualquier moderador que trabaje en él si es necesario.
 
 ![Submission panel on a users' profile page.](./img/user-submissions.png)
 
-If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator](./#moderator-list) on the [website](http://anilist.co) or on [Discord](https://discord.gg/2J5nqqZ).
+Si tiene alguna consulta en relación con el envío o actualización de contenido en el sitio, no dude en preguntar a un [moderator](./#moderator-list) sobre [website](http://anilist.co) o en el [Discord](https://discord.gg/2J5nqqZ).
 
 ::: tip
-It is _**highly recommended**_ that you read the both the [Checklist](./criteria.html#checklist) and [Animated](./criteria.html#animated-media) and [Written Media](./criteria.html#written-media) Specification sections prior to any submissions, or at least relevant sections within it.
+Es _ ** muy recomendable ** _ que lea tanto el [Checklist](./criteria.html#checklist) and [Animated](./criteria.html#animated-media) and [Written Media](./criteria.html#written-media) Specification sections prior to any submissions, or at least relevant sections within it.
 
 The latter sections state what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
 :::
