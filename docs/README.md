@@ -2,7 +2,7 @@
 
 ### Prólogo
 
-Agregar o modificar una entrada en AniList es una tarea fácil. El objetivo principal es asegurarse de que los datos sean precisos y lo más completos posible para ese momento. Todas las secciones del formulario están formateadas de manera similar y tienen útiles consejos útiles para ayudarte.
+Agregar o modificar una entrada en AniLista es una tarea fácil. El objetivo principal es asegurarse de que los datos sean precisos y lo más completos posible para ese momento. Todas las secciones del formulario están formateadas de manera similar y tienen útiles consejos útiles para ayudarte.
 
 ## Agregar Nuevas Entradas
 
