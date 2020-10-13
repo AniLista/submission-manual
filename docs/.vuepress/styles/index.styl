@@ -1,0 +1,59 @@
+@require "~vuepress-plugin-tabs/dist/themes/default.styl";
+@import url('https://fonts.googleapis.com/css?family=Overpass:400,600,700&display=swap');
+
+h1, h2, h3, h4, h5, .site-name, .sidebar-links > li > a.sidebar-link {
+  font-family: "Overpass", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+h1, h2, h3, h4, .navbar span.site-name {
+  font-weight: 700;
+}
+
+img {
+  border-radius: 4px;
+}
+
+h2 {
+  margin-top: -1.4rem !important;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: -0.8rem !important;
+}
+
+.sidebar {
+  background: #f5f7f9;
+  border-right: 0;
+  width: 22rem;
+
+  @media (max-width: 959px) {
+    width: 16.4rem;
+  }
+}
+
+.sidebar a.sidebar-link {
+  padding: 0.35rem 1rem 0.35rem 1.75rem;
+}
+
+.sidebar-links > li > ul > li > a.sidebar-link {
+  font-weight: 500;
+  padding-top: 0.5rem;
+}
+
+.custom-block {
+  border-radius: 4px;
+  margin: 2.4rem 0 !important;
+}
+
+.tabs-component-tab-a {
+  font-weight: 700;
+  padding: 11px 18px;
+}
+
+.tabs-component-panels {
+  padding: 24px;
+  section ul {
+    margin: 0;
+  }
+}
