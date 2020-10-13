@@ -35,7 +35,7 @@ After making a submission, you will be able to view the status of your submissio
 
 ![Submission panel on a users' profile page.](./img/user-submissions.png)
 
-If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator](./#moderator-list) on the [website](http://anilist.co) or on [Discord](https://discord.gg/TF428cr).
+If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator](./#moderator-list) on the [website](http://anilist.co) or on [Discord](https://discord.gg/2J5nqqZ).
 
 ::: tip
 It is _**highly recommended**_ that you read the both the [Checklist](./criteria.html#checklist) and [Animated](./criteria.html#animated-media) and [Written Media](./criteria.html#written-media) Specification sections prior to any submissions, or at least relevant sections within it.
@@ -47,25 +47,25 @@ The latter sections state what _**is**_ and _**is not**_ accepted onto the datab
 This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](./submissions.html#country-of-origin).'
 :::
 
-## Moderator List
+## Lista de Moderadores
 
 ::: tip
-Feel free to contact a moderator for help and advice through the [website](http://anilist.co/) or on [Discord](https://discord.gg/TF428cr) \#submission-support channel.
+No dudes en ponerse en contacto con un moderador para obtener ayuda y asesoramiento a través del [sitio web](http://anilista.com/) o en [Discord](https://discord.gg/2J5nqqZ) \#submission-support .
 
-However, please don't give them a title and expect them to do all the work for you.
+Sin embargo, no les dés un título y esperes que hagan todo el trabajo por ti.
 :::
 
 #### Anime
 
-| Name                                              | Role            |
+| Name                                              | Rol             |
 | :------------------------------------------------ | :-------------- |
 | [Ivan](http://anilist.co/user/Ivan)               | Principal Anime |
 | [Frans](http://anilist.co/user/Frans)             | Anime |
 
 #### Manga
 
-| Name                                          | Role       |
-| :-------------------------------------------- | :--------- |
+| Name                                          | Rol                  |
+| :-------------------------------------------- | :------------------- |
 | [Ivan](http://anilist.co/user/Ivan)           | Principal Manga      |
 | [Frans](https://anilist.co/user/Frans)        | Manga |
 
