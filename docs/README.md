@@ -35,10 +35,10 @@ Después de realizar un envío, podrá ver el estado de sus envíos, además de 
 
 ![Submission panel on a users' profile page.](./img/user-submissions.png)
 
-Si tiene alguna consulta en relación con el envío o actualización de contenido en el sitio, no dude en preguntar a un [moderator](./#moderator-list) sobre [website](http://anilist.co) o en el [Discord](https://discord.gg/2J5nqqZ).
+Si tiene alguna consulta en relación con el envío o actualización de contenido en el sitio, no dude en preguntar a un [moderator](./#moderator-list) sobre el [website](http://anilist.co) o en el [Discord](https://discord.gg/2J5nqqZ).
 
 ::: tip
-Es _ ** muy recomendable ** _ que lea tanto el [Checklist](./criteria.html#checklist) and [Animated](./criteria.html#animated-media) and [Written Media](./criteria.html#written-media) Specification sections prior to any submissions, or at least relevant sections within it.
+Es _**muy recomendable**_ que lea tanto el [Checklist](./criteria.html#checklist) y [Animated](./criteria.html#animated-media) y [Written Media](./criteria.html#written-media) en la secciones de especificación antes de cualquier envío, o al menos secciones relevantes dentro de él.
 
 The latter sections state what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
 :::
