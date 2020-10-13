@@ -2,36 +2,36 @@
 sidebarDepth: 2
 ---
 
-## Tag Management
+## Gestión de Etiquetas
 
-The tag list can be viewed at the bottom left of each entry page.
+La lista de etiquetas se puede ver en la parte inferior izquierda de cada página de entrada.
 
-![Example entry, with one hidden under a spoiler toggle.](./img/tag_example.png)
+![Entrada de ejemplo, con una etiqueta oculta debajo de un spoiler.](./img/tag_example.png)
 
-Tags are not part of the submission system, but still very important. If you do submit any new entries, it would be massively appreciated if you could add tags once the entry is approved, marking some as spoilers if needed.
+Las etiquetas no forman parte del sistema de envío, pero siguen siendo muy importantes. Si envías nuevas entradas, se agradecería enormemente si pudieras agregar etiquetas una vez que se aprueba la entrada, marcando algunas como spoilers si es necesario.
 
-Tags for each entry are entirely user-managed, with all users being able to add tags and vote on their relevance to the work in question. The results can then be filtered through in the ‘Browse’ section of the website.
+Las etiquetas para cada entrada son completamente administradas por el usuario, y todos los usuarios pueden agregar etiquetas y votar sobre su relevancia para el trabajo en cuestión. Luego, los resultados se pueden filtrar en la sección "Explorar" del sitio web.
 
-If you wish to submit a new tag, all you have to do is type in the name and submit - it’ll then be looked into and approved or denied.
-
-::: tip
-Tags can be marked as a spoiler using the exclamation mark icon, or removed with the trash icon. This feature is not available to standard users.
-:::
-
-::: warning
-The power of each user's vote is limited to restrict abuse. If you feel that tags have been added incorrectly, submit an edit to the entry where you simply comment in the [Submission Sources & Notes](./submissions.html#submission-sources-notes) box why the tags should be removed. 
-:::
-
-## Tag Requests
-
-For the most part, any new tag that is requested by a user will be discussed between the moderators and sometimes users themselves before a decision on whether to include them or not is made. Ideally, tags should not be ones that are often considered subjective, such as 'moe', and not as descriptive as eye color. Browsing the list of tags is the best measure of seeing what type of content could be approved.
-
-## Tag List
-
-Using the filter button on the [Browse](https://anilist.co/search/anime) page and then expanding the 'Advanced Genres & Tag Filters' section will give you a list of available tags, with descriptions on mouse hover.
-
-![A filtered view of the advanced genre &amp; tag panel](./img/tag_advanced.png)
+Si desea enviar una nueva etiqueta, todo lo que tienes que hacer es escribir el nombre y enviarla; luego, será revisada y aprobada o denegada.
 
 ::: tip
-A dedicated page in a table layout will be implemented at a later date.
+Las etiquetas se pueden marcar como spoiler con el icono del signo de exclamación o eliminarse con el icono de la papelera. Esta función no está disponible para usuarios estándar.
+:::
+
+::: advertencia
+El poder del voto de cada usuario se limita para restringir el abuso. Si crees que las etiquetas se han agregado incorrectamente, envíe una edición a la entrada donde simplemente comentes en la caja de [Notas y Fuentes de Envío](./submissions.html#submission-sources-notes) por qué deben eliminarse las etiquetas. 
+:::
+
+## Solicitudes de Etiquetas
+
+En su mayor parte, cualquier etiqueta nueva solicitada por un usuario será discutida entre los moderadores y, a veces, los propios usuarios antes de tomar una decisión sobre si incluirla o no. Idealmente, las etiquetas no deberían ser aquellas que a menudo se consideren subjetivas, como 'moe', y no tan descriptivas como el color de ojos. Examinar la lista de etiquetas es la mejor medida para ver qué tipo de contenido podría aprobarse.
+
+## Lista de Etiquetas
+
+Si usa el botón de filtro en la página [Explorar](https://anilista.com/search/anime) y luego expande la sección 'Géneros Avanzados y Filtros de Etiquetas' obtendrás una lista de etiquetas disponibles, con descripciones al pasar el mouse.
+
+![Una vista filtrada del panel avanzado de etiquetas y génerosl](./img/tag_advanced.png)
+
+::: tip
+Una página dedicada en un diseño de tabla se implementará en una fecha posterior.
 :::
