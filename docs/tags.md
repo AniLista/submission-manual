@@ -28,7 +28,7 @@ En su mayor parte, cualquier etiqueta nueva solicitada por un usuario será disc
 
 ## Lista de Etiquetas
 
-Si usa el botón de filtro en la página [Explorar](https://anilista.com/search/anime) y luego expande la sección 'Géneros Avanzados y Filtros de Etiquetas' obtendrás una lista de etiquetas disponibles, con descripciones al pasar el mouse.
+Si usas el botón de filtro en la página [Explorar](https://anilista.com/search/anime) y luego expandes la sección 'Géneros Avanzados y Filtros de Etiquetas' obtendrás una lista de etiquetas disponibles, con descripciones al pasar el mouse.
 
 ![Una vista filtrada del panel avanzado de etiquetas y génerosl](./img/tag_advanced.png)
 
