@@ -4,16 +4,16 @@ sidebarDepth: 2
 
 ## Checklist
 
-* Make sure the work, character, actor, or staff isn’t already in the database.
-* Always include as much detail as possible, as well as link to as many sources as possible in the sources panel \(even if it is in a language you can’t read\).  
-* If you find a duplicate entry, contact a [moderator](./#moderator-list).  
-* The nationality of a creator does not matter if their work is first professionally published by a reputable Japanese, Chinese, South Korean, or Taiwanese publisher for their respective markets \(See [Country Of Origin](./submissions.html#country-of-origin)\).
+* Asegúrate de que el trabajo, el personaje, el actor o el personal no estén ya en la base de datos.
+* Inclui siempre tantos detalles como sea posible, así como enlaces a tantas fuentes como sea posible en el panel de fuentes \(incluso si esta en un idioma que no se puede leer\).  
+* Si encontras una entrada duplicada, comunícate con un [moderador](./#moderator-list).  
+* La nacionalidad de un creador no importa si su trabajo se publica primero profesionalmente por un editor japonés, chino, surcoreano o taiwanés de renombre para sus respectivos mercados \(consulta [pais de origen](./submissions.html#country-of-origin)\).
 
-Example:
- [Thiago Furukawa Lucas](https://anilist.co/staff/99212/Yuu-Kamiya) \(author of [No Game, No Life](https://anilist.co/manga/78399/No-Game-No-Life/)\) is Brazilian-Japanese, but the work was initially published with Kodansha in Japanese, so his work is considered a light novel.
+Ejemplo:
+ [Thiago Furukawa Lucas](https://anilist.co/staff/99212/Yuu-Kamiya) \(autor de [No Game, No Life](https://anilist.co/manga/78399/No-Game-No-Life/)\) es Brasileña-Japonesa, per el trabajo se publicó inicialmente con Kodansha en japonés, por lo que su trabajo se considera una novela ligera.
 
 ::: tip
-You can check by running English, native language, and romaji titles through the search and [browse](https://anilist.co/search/anime) sections, as well as going through the credits of relevant staff and characters.
+Puede verificar ejecutando títulos en inglés, idioma nativo y romaji a través de las secciones de búsqueda y [Navegar](https://anilist.co/search/anime) secciones, as well as going through the credits of relevant staff and characters.
 :::
 
 ::: tip
