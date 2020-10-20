@@ -10,7 +10,7 @@ sidebarDepth: 2
 * La nacionalidad de un creador no importa si su trabajo se publica primero profesionalmente por un editor japonés, chino, surcoreano o taiwanés de renombre para sus respectivos mercados \(consulta [pais de origen](./submissions.html#country-of-origin)\).
 
 Ejemplo:
- [Thiago Furukawa Lucas](https://anilist.co/staff/99212/Yuu-Kamiya) \(autor de [No Game, No Life](https://anilist.co/manga/78399/No-Game-No-Life/)\) es Brasileña-Japonesa, per el trabajo se publicó inicialmente con Kodansha en japonés, por lo que su trabajo se considera una novela ligera.
+ [Thiago Furukawa Lucas](https://anilist.co/staff/99212/Yuu-Kamiya) \(autor de [No Game, No Life](https://anilist.co/manga/78399/No-Game-No-Life/)\) es Brasileña-Japonesa, pero el trabajo se publicó inicialmente con Kodansha en japonés, por lo que su trabajo se considera una novela ligera.
 
 ::: tip
 Puede verificar ejecutando títulos en inglés, idioma nativo y romaji a través de las secciones de búsqueda y [Navegar](https://anilist.co/search/anime) secciones, as well as going through the credits of relevant staff and characters.
@@ -34,7 +34,7 @@ There are limitations to the anime that can be accepted to the site, notably the
 Even if a title is animated by these studios, it may not be added to the site due to significant creative decisions being made by western companies.
 :::
 
-#### Examples
+#### Ejemplos
 
 Example 1:
 
